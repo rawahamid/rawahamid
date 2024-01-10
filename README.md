@@ -42,4 +42,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rawahamid&show_icons=true&locale=en" alt="rawahamid" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rawahamid&" alt="rawahamid" /></p>
+[![GitHub Streak](https://streak-stats.demolab.com?user=rawahamid&theme=dracula&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
