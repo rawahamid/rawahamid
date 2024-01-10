@@ -5,8 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rawahamid" alt="rawahamid" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/rawahamid97" target="blank"><img src="https://img.shields.io/twitter/follow/rawahamid97?logo=twitter&style=for-the-badge" alt="rawahamid97" /></a> </p>
-
 - 🔭 I’m currently working on [Guaranty Post System](https://www.facebook.com/GuarantyPost)
 
 - 🌱 I’m currently learning **Java Spring Boot, Python**
@@ -27,7 +25,6 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/rawahamid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="rawahamid" height="30" width="40" /></a>
 <a href="https://twitter.com/rawahamid97" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rawahamid97" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/rawahamid97" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rawahamid97" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/8267963" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="8267963" height="30" width="40" /></a>
@@ -42,4 +39,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rawahamid&show_icons=true&locale=en" alt="rawahamid" /></p>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=rawahamid&theme=dracula&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rawahamid&" alt="rawahamid" /></p>
