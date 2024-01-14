@@ -1,8 +1,9 @@
 <h1 align="center">Hi 👋, I'm Rawa Hamid Mohammed</h1>
 <h3 align="center">A passionate backend developer from Kurdistan</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rawahamid&label=Profile%20views&color=0e75b6&style=flat" alt="rawahamid" /> </p>
-
+<a href="https://wakatime.com/@97cedc34-29a7-4cd7-8c6d-1bc775e3cb2f"><img src="https://wakatime.com/badge/user/97cedc34-29a7-4cd7-8c6d-1bc775e3cb2f.svg" alt="Total time coded since Apr 27 2021" /></a>
+<img src="https://komarev.com/ghpvc/?username=rawahamid&label=Profile%20views&color=0e75b6&style=flat" alt="rawahamid" />
+  
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rawahamid" alt="rawahamid" /></a> </p>
 
 - 🔭 I’m currently working on [Guaranty Post System](https://www.facebook.com/GuarantyPost)
