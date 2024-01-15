@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on [Guaranty Post System](https://www.facebook.com/GuarantyPost)
 
-- 🌱 I’m currently learning **Java Spring Boot, Python**
+- 🌱 I’m currently learning **Java Spring Boot, Python (Django)**
 
 - 👯 I’m looking to collaborate on [MyTV+](https://mytvplus.net)
 
