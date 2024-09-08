@@ -14,9 +14,7 @@
 
 - 🤝 I’m looking for help with **DevOps**
 
-- 👨‍💻 All of my projects are available at [https://rawahamid.github.io](https://rawahamid.github.io)
-
-- 📝 I regularly write articles on [https://rawahamid.hashnode.dev](https://rawahamid.hashnode.dev)
+- 📝 I regularly write articles on my personal blog [https://irawa.dev](https://irawa.dev)
 
 - 💬 Ask me about **PHP, Laravel and MySQL**
 
